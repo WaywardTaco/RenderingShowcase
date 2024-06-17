@@ -2,9 +2,9 @@
 using System.Collections;
 using UnityEngine.XR;
 
-namespace VRStandardAssets.Examples
+namespace XRStandardAssets.Examples
 { 
-	public class ExampleRenderScale : MonoBehaviour
+	public class ExampleRenderScale2 : MonoBehaviour
 	{
 		[SerializeField] private float m_RenderScale = 1f;              //The render scale. Higher numbers = better quality, but trades performance
 
