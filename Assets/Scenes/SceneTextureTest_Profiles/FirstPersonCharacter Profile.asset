@@ -1526,13 +1526,13 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 1
+    value: 4
   aperture:
     overrideState: 1
     value: 10
   focalLength:
     overrideState: 1
-    value: 35
+    value: 80
   kernelSize:
     overrideState: 1
     value: 1
@@ -1563,7 +1563,7 @@ MonoBehaviour:
     value: 9
   keyValue:
     overrideState: 1
-    value: 0.6
+    value: 0.7
   eyeAdaptation:
     overrideState: 0
     value: 0
@@ -1594,7 +1594,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.7
+    value: 0.8
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
